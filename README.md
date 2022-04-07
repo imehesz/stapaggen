@@ -1,1 +1,1 @@
-# stapaggen
+# StaPagGen - Static Page Generator
